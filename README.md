@@ -3,7 +3,7 @@ Bir Lokantanın yemek menüsünü içeren bir projedir. Kullanıcı istediği ye
 
 Demo Görüntüsü
 
-![](https://github.com/siracalaks/Food-Order-App-2/blob/main/src/assets/food-order-app.png)
+![](https://github.com/siracalaks/Food-Order-App-2/blob/main/src/assets/food-order-app-demo.png)
 
 
 
