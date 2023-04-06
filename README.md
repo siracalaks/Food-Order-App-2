@@ -7,4 +7,4 @@ Demo Görüntüsü
 
 
 
-DEMO => (https://siracalaks.github.io/Food-Order-App-2/)
+DEMO => https://siracalaks.github.io/Food-Order-App-2/
